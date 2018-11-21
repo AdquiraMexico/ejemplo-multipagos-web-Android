@@ -1,4 +1,4 @@
-#Fri Nov 16 19:37:23 CST 2018
-base.0=/Users/Daniel/Documents/Android/WebViewFlap/app/build/intermediates/transforms/dexMerger/debug/5
+#Wed Nov 21 13:11:24 CST 2018
+base.0=C\:\\Users\\oscar\\StudioProjects\\webview_flap\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
 path.0=classes.dex
 renamed.0=classes.dex

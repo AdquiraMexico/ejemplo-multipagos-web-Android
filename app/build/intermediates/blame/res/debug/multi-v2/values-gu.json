@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Daniel/Documents/Android/WebViewFlap/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml",
+            "outputFile": "C:\\Users\\oscar\\StudioProjects\\webview_flap\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu\\values-gu.xml",
             "map": [
                 {
-                    "source": "/Users/Daniel/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/7c9c6bbb9573a4066a9031142f672cc1/res/values-gu/values-gu.xml",
+                    "source": "C:\\Users\\oscar\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\89e3bce6d47a713b07cf23658142c16d\\res\\values-gu\\values-gu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/Daniel/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a978befdad784d984fbf4015783a6bbc/res/values-gu/values-gu.xml",
+                    "source": "C:\\Users\\oscar\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\a0eb4cb49e7ea00363da66784b0b2017\\res\\values-gu\\values-gu.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

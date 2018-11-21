@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WebViewFlap.iml" filepath="$PROJECT_DIR$/WebViewFlap.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webview_flap.iml" filepath="$PROJECT_DIR$/webview_flap.iml" />
     </modules>
   </component>
 </project>
