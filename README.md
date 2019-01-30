@@ -1,6 +1,6 @@
 # Invocación Multipagos Web Android
 
-Aplicación genérica demo para sistema operativo Android que realiza una invocación a una URL del sistema Multipagos dentro de un componente WebView
+Aplicación genérica demo para sistema operativo Android que realiza una invocación a una URL del sistema Multipagos WEB dentro de un componente WebView
 
 ## Funcionalidades
 * WebView: Invocación de la URL del sistema Multipagos con los parámetros necesarios dentro del componente WebView
